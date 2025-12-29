@@ -1,7 +1,7 @@
 # Create variables with different data types
 my_age = 18
-my_height = 5.7
-my_name = "VINAY"
+my_height = 6
+my_name = "jayesh"
 are_you_student = True
 
 # Print all variables with nice formatting
